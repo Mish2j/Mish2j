@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mishel Ghukasyan.
+<!-- - 👋 Hi, I’m Mishel Ghukasyan.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning unit testing.
+- 🌱 I’m currently learning unit testing. -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
