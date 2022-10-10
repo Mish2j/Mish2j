@@ -1,12 +1,18 @@
-<!-- - 👋 Hi, I’m Mishel Ghukasyan.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning unit testing. -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+# Mishel Ghukasyan
+## Frontend Developer
 
-<!---
-Mish2j/Mish2j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a front-end developer based in Los Angeles with a passion for building complex web and mobile applications. I enjoy learning new tools and improving my skills. You can check out some of my works at [mishelghukasyan.com](https://www.mishelghukasyan.com) or see my GitHub repositories at [github.com/Mish2j](https://github.com/Mish2j?tab=repositories). Feel free to contact me at mishelghukasyan@gmail.com or send a connection request on [LinkedIn](https://www.linkedin.com/in/mishel-ghukasyan/). 
+
+---
+
+### My Current tech stack
+
+HTML, CSS, SASS, Bootstrap, JavaScript, React, React Native, TypeScript and more.
+
+### I’m currently learning
+
+Node.js, MongoDB
+
+---
 
 [![Mishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mish2j)](https://github.com/anuraghazra/github-readme-stats)
