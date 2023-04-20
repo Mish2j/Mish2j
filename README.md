@@ -17,4 +17,6 @@ Node.js, MongoDB
 
 [![Mishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mish2j&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Mishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mish2j&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mish2j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
