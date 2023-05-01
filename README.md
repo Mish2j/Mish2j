@@ -1,5 +1,5 @@
 # Mishel Ghukasyan
-## Frontend Developer
+## Frontend Engineer
 
 I am a front-end developer based in Los Angeles with a passion for building complex web and mobile applications. I enjoy learning new tools and improving my skills. You can check out some of my works at [mishelghukasyan.com](https://www.mishelghukasyan.com) or see my GitHub repositories at [github.com/Mish2j](https://github.com/Mish2j?tab=repositories). Feel free to contact me at mishelghukasyan@gmail.com or send a connection request on [LinkedIn](https://www.linkedin.com/in/mishel-ghukasyan/). 
 
