@@ -1,13 +1,13 @@
 # Mishel Ghukasyan
-## Frontend Engineer
+## Frontend Software Engineer
 
-I am a front-end developer based in Los Angeles with a passion for building complex web and mobile applications. I actively contribute to open-source projects, to make a positive impact in the developer community. You can check out some of my works at [mishelghukasyan.com](https://www.mishelghukasyan.com) or see my GitHub repositories at [github.com/Mish2j](https://github.com/Mish2j?tab=repositories). Feel free to contact me at mishelghukasyan@gmail.com or send a connection request on [LinkedIn](https://www.linkedin.com/in/mishel-ghukasyan/). 
+I am pursuing a Computer Science degree at Cal Poly Pomona and am deeply passionate about creating web and mobile applications. My experiences include an internship at NASA GISS, volunteering at Resilience Inc., and contributing to open-source projects such as [ToolJet](github.com/ToolJet/ToolJet/pull/6573), [Nuclear](github.com/nukeop/nuclear/pull/1472). I prioritize simplicity in software development, particularly in user interfaces, and aim to make a positive impact through innovative, user-centered solutions. 
 
----
+Portfolio: [mishelghukasyan.com](https://www.mishelghukasyan.com)
 
-### My Current tech stack
+Email: mishelghukasyan@gmail.com 
 
-HTML, CSS, JavaScript, React, React Native, and TypeScript.
+LinkedIn: [in/mishel-ghukasyan](https://www.linkedin.com/in/mishel-ghukasyan/)
 
 ---
 
