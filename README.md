@@ -31,6 +31,26 @@ Software engineer and CS graduate who enjoys turning ideas into interactive prod
 
 ---
 
+## ✨ The Person Behind the Code
+
+🛰️ Fascinated by space, missions, maps, and satellites.
+
+🚗 Car enthusiast.
+
+🏋️ I enjoy going to the gym and staying active.
+
+🍳 I like cooking and trying out new meals.
+
+🎨 I care about how things look and feel, not just how they work.
+
+💡 I often get a random “what if I built this?” idea that turns into a new project.
+
+🧠 Naturally curious and always interested in learning something new, both inside and outside of tech.
+
+✝️ Faith is an important part of my life.
+
+---
+
 ## 🛠️ Tools I Work With
 
 **Languages:** JavaScript, TypeScript, Python, Java, SQL
