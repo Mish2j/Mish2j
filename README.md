@@ -11,8 +11,8 @@ LinkedIn: [in/mishel-ghukasyan](https://www.linkedin.com/in/mishel-ghukasyan/)
 
 ---
 
-<!-- [![Mishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mish2j)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Mish2j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-extended.vercel.app/api/top-langs/?username=Mish2j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,lit,py,fastapi,linux,git,github,npm,aws,firebase,figma,xd)](https://skillicons.dev)
