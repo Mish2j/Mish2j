@@ -1,18 +1,58 @@
-# Mishel Ghukasyan
-## Software Engineer
+# 👋 Hi, I'm Mishel
 
-I'm a Software Engineer focused on building user-centered, high-performance front-end applications, with hands-on experience delivering production-level features across internships and engineering roles, including NASA projects. I specialize in modern JavaScript/TypeScript and creating simple, intuitive interfaces and data visualizations for complex systems.
+Software engineer and CS graduate who enjoys turning ideas into interactive products.
+
+🚀 I’ve worked on software projects with NASA teams, from Earth science visualizations to mobile-first web experiences.
+
+🛰️ Right now, I’m building a spacecraft telemetry and command system with Python, FastAPI, and WebSockets because I’m fascinated by mission software and real-time systems.
+
+🎨 I especially enjoy the visual side of engineering — maps, dashboards, data visualization, and interfaces that make complex information easier to understand.
+
+🌎 Outside of code, I like exploring space and science projects, helping small businesses bring ideas online, and experimenting with new things just because they seem interesting to build.
+
+---
+
+## 👨‍💻 A Little More About Me
+
+- 🚀 **Dream:** Build software that supports real missions
+- 🗺️ **Weakness:** Give me a map or visualization project and I’ll probably spend too much time on it
+- 🧪 **Current experiment:** Simulating spacecraft telemetry in real time
+- 🤝 I like working with people, not just code
+- 🛠️ I believe the best way to learn something is to build it
+
+---
+
+## 🛰️ Current Mission Status
+
+> **Mission:** Building a real-time spacecraft ground system  
+> 📡 **Telemetry:** ONLINE  
+> 🔧 **Current focus:** Multi-user mission rooms  
+> ☕ **Fuel level:** Probably needs coffee
+
+---
+
+## 🛠️ Tools I Work With
+
+**Languages:** JavaScript, TypeScript, Python, Java, SQL
+
+**Frontend:** React, React Native, Ionic, Lit
+
+**Backend:** FastAPI, REST APIs, WebSockets
+
+**Visualization:** OpenLayers, Leaflet, Plotly.js, Recharts
+
+**Tools:** Git, GitHub, Linux/Unix, Jira, AWS
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,lit,py,fastapi,linux,git,github,npm,aws,firebase,figma,xd&perline=5)](https://skillicons.dev)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Mish2j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🤝 Let's Connect
+
+LinkedIn: [linkedin.com/in/mishel-ghukasyan/](https://www.linkedin.com/in/mishel-ghukasyan/) 
 
 Portfolio: [mishelghukasyan.com](https://www.mishelghukasyan.com)
 
 Email: mishelghukasyan@gmail.com 
-
-LinkedIn: [in/mishel-ghukasyan](https://www.linkedin.com/in/mishel-ghukasyan/)
-
----
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Mish2j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,lit,py,fastapi,linux,git,github,npm,aws,firebase,figma,xd)](https://skillicons.dev)
